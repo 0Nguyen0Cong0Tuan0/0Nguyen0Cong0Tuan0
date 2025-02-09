@@ -1,4 +1,7 @@
-<center>## Hi👋, I'm Nguyễn Công Tuấn</center>
+<h2 align="center">Hi👋, I'm Nguyễn Công Tuấn</h2>
+<h2 align="center">🌱 I’m currently learning Data Science and Artificial Intelligent (AI) at VNU-HCMUS</h2>
+
+<p align='center'></p>
 
 
 <!--
