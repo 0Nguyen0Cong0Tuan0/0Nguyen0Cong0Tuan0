@@ -1,7 +1,5 @@
 <p align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://minimalistic-wallpaper.demolab.com/?random=3" alt="Typing SVG" width="400" height="200" style="border-radius: 10px;">
-    </a>
+    <img src="https://imagegenerator.nguyencongtuan0810.workers.dev/" alt="Random Image" width="400" height="200" style="border-radius: 10px;">
 </p>
 
 
@@ -11,7 +9,7 @@
     </a>
 </h1>
 
-<p align="center" style="font-size: 20px; font-weight: bold; color: #eee;">🌱 I’m currently learning <span style="color: #9d4edd;">Data Science</span> and <span style="color: #00f5d4;">Artificial Intelligence (AI)</span> at <b>VNU-HCMUS</b></p>
+<p align="center" style="font-family: 'Darumadrop One'; font-size: 20px; font-weight: bold; color: #eee;">🌱 I’m currently learning <span style="color: #9d4edd;">Data Science</span> and <span style="color: #00f5d4;">Artificial Intelligence (AI)</span> at <b>VNU-HCMUS</b></p>
 <p align="center" style="font-size: 20px;">📫 👨‍💻 All of my projects are available at: <a href='https://github.com/0Nguyen0Cong0Tuan0' style="color:#00f5d4; font-weight: bold;">GitHub</a></p>
 <p align="center" style="font-size: 20px;">📫 How to reach me: <b style="color: #ff4081;">nguyencongtuan.career@gmail.com</b></p>
 
@@ -40,18 +38,61 @@ I am strongly interested in Data Science, AI advancements, and machine learning 
 ---
 
 ### 🛠️ Languages and Tools
+
+<p align="center" style="font-size: 30px;"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,mongodb,postman,python,pytorch,tensorflow,sklearn,jupyter" alt="Tech Stack" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js" />
+  </a>
+</p>
+
+<p align="center" style="font-size: 30px;"><b>AI</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  </a>
+</p>
+
+<p align="center" style="font-size: 30px;"><b>Web Development</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,figma,express,firebase,materialui" />
+  </a>
+</p>
+
+<p align="center" style="font-size: 30px;"><b>Databases & API</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman" />
+  </a>
+</p>
+
+<p align="center" style="font-size: 30px;"><b>Linux</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+  </a>
+</p>
+
+<p align="center" style="font-size: 30px;"><b>Take note</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,obsidian" />
+  </a>
+</p>
+
+<p align="center" style="font-size: 30px;"><b>Others</b></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=latex,vscode,git,github" />
+  </a>
 </p>
 
 ---
-
 ## ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Nguyen0Cong0Tuan0&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0Nguyen0Cong0Tuan0&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Nguyen0Cong0Tuan0&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0Nguyen0Cong0Tuan0&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
     <a href="https://git.io/streak-stats">
