@@ -1,7 +1,10 @@
-<p align="center">
+<!--<p align="center">
     <img src="https://imagegenerator.nguyencongtuan0810.workers.dev/" alt="Random Image" width="400" height="200" style="border-radius: 10px;">
-</p>
+</p>-->
 
+<p align="center">
+    <img src="https://wallpapers-clan.com/wp-content/uploads/2023/12/magic-winter-forest-blue-desktop-wallpaper-preview.jpg" alt="Random Image" width="400" height="200" style="border-radius: 10px;">
+</p>
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
