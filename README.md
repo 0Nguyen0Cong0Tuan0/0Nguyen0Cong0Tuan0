@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center" style="font-family: 'Darumadrop One'; font-size: 20px; font-weight: bold; color: #eee;">🌱 I’m currently learning <span style="color: #9d4edd;">Data Science</span> and <span style="color: #00f5d4;">Artificial Intelligence (AI)</span> at <b>VNU-HCMUS</b></p>
-<p align="center" style="font-size: 20px;">📫 👨‍💻 All of my projects are available at: <a href='https://github.com/0Nguyen0Cong0Tuan0' style="color:#00f5d4; font-weight: bold;">GitHub</a></p>
+<p align="center" style="font-size: 20px;">👨‍💻 All of my projects are available at: <a href='https://github.com/0Nguyen0Cong0Tuan0' style="color:#00f5d4; font-weight: bold;">GitHub</a></p>
 <p align="center" style="font-size: 20px;">📫 How to reach me: <b style="color: #ff4081;">nguyencongtuan.career@gmail.com</b></p>
 
 ---
