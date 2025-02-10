@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://minimalistic-wallpaper.demolab.com/?random&t=${Math.random()}" alt="Typing SVG" width="400" height="200" style="border-radius: 10px;">
+        <img src="https://minimalistic-wallpaper.demolab.com/?random=${Math.random()}" alt="Typing SVG" width="400" height="200" style="border-radius: 10px;">
     </a>
 </p>
 
