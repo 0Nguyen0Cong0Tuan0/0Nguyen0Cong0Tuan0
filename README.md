@@ -1,5 +1,14 @@
-<h1 align="center" style="background: linear-gradient(90deg, #240046, #5a189a, #9d4edd, #7b2cbf, #3c096c, #10002b); -webkit-background-clip: text; color: transparent; font-size: 50px; font-weight: bold;">
-    Hi There! 👋<br>I'm Nguyễn Công Tuấn!
+<div style="text-align: center;">
+    <a href="https://git.io/typing-svg">
+        <img src="https://minimalistic-wallpaper.demolab.com/?random" alt="Typing SVG" style="width: 400px; height: 200px; border-radius: 10px;">
+    </a>
+</div>
+
+
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Darumadrop+One&size=40&letterSpacing=5&duration=3999&pause=1000&color=58A6FF&background=FF571D00&center=true&vCenter=true&width=800&height=100&lines=Hi+There!+%F0%9F%91%8B;I'm+Nguy%E1%BB%85n+C%C3%B4ng+Tu%E1%BA%A5n!" alt="Typing SVG">
+    </a>
 </h1>
 
 <p align="center" style="font-size: 20px; font-weight: bold; color: #eee;">🌱 I’m currently learning <span style="color: #9d4edd;">Data Science</span> and <span style="color: #00f5d4;">Artificial Intelligence (AI)</span> at <b>VNU-HCMUS</b></p>
@@ -45,7 +54,9 @@ I am strongly interested in Data Science, AI advancements, and machine learning 
   <img src="https://github-readme-stats.vercel.app/api?username=0Nguyen0Cong0Tuan0&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0Nguyen0Cong0Tuan0&theme=dracula" alt="GitHub Streak" />
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=0Nguyen0Cong0Tuan0&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak Stats">
+    </a>
 </p>
 
 ---
