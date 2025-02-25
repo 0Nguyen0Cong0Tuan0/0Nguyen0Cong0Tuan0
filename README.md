@@ -34,7 +34,7 @@ I am strongly interested in Data Science, AI advancements, and machine learning 
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-c%C3%B4ng-tu%E1%BA%A5n-393823335/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/cong-tuan-nguyen-393823335" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:nguyencongtuan.career@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
