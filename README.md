@@ -35,23 +35,23 @@ I am strongly interested in Data Science, AI advancements, and machine learning 
 <table width="100%">
   <tr>
     <td width="20%" align="center" valign="middle"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,js,cpp,html,css" /></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cuda" /></td>
   </tr>
   <tr>
     <td width="20%" align="center" valign="middle"><b>AI & Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /></td>
-  </tr>
-  <tr>
-    <td width="20%" align="center" valign="middle"><b>Web Dev</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,figma,firebase,materialui" /></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,opencv,sklearn,numpy,pandas,matplotlib,huggingface,gradio,langchain,nvidia,wandb" /></td>
   </tr>
   <tr>
     <td width="20%" align="center" valign="middle"><b>Database & API</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postman" /></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postman" /></td>
   </tr>
   <tr>
-    <td width="20%" align="center" valign="middle"><b>Tools & OS</b></td>
-    <td><img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,latex,notion,obsidian" /></td>
+    <td width="20%" align="center" valign="middle"><b>Tools</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,github,githubdesktop,vscode,googlecolab,jupyter,latex,overleaf,markdown,notion" /></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center" valign="middle"><b>Platforms</b></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin,discord,gmail,outlook,kaggle,hackerrank,leetcode" /></td>
   </tr>
 </table>
 
@@ -93,13 +93,8 @@ I am strongly interested in Data Science, AI advancements, and machine learning 
 </table>
 
 ## 🐍 Contribution Snake
-
 <picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0Nguyen0Cong0Tuan0/0Nguyen0Cong0Tuan0/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0Nguyen0Cong0Tuan0/0Nguyen0Cong0Tuan0/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/0Nguyen0Cong0Tuan0/0Nguyen0Cong0Tuan0/output/github-contribution-grid-snake.svg" />
 </picture>
