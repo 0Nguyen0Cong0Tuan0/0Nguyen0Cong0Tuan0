@@ -70,7 +70,7 @@ I am strongly interested in Data Science, AI advancements, and machine learning 
 
 <br />
 
-## ⚡ GitHub Stats
+### ⚡ GitHub Stats
 <table width="100%">
   <tr>
     <td width="50%">
@@ -93,8 +93,13 @@ I am strongly interested in Data Science, AI advancements, and machine learning 
 </table>
 
 ## 🐍 Contribution Snake
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0Nguyen0Cong0Tuan0/0Nguyen0Cong0Tuan0/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0Nguyen0Cong0Tuan0/0Nguyen0Cong0Tuan0/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/0Nguyen0Cong0Tuan0/0Nguyen0Cong0Tuan0/output/github-contribution-grid-snake.svg" />
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+
 </picture>
